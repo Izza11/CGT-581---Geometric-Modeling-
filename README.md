@@ -1,4 +1,4 @@
-# CGT-581---Geometric-Modeling-
+# CGT-581---Geometric-Modeling-Lab02
 
 Modeling with Bezier cubics:
 
