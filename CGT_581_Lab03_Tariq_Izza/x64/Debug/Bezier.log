@@ -1,0 +1,8 @@
+﻿  main.cpp
+src\main.cpp(126): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+src\main.cpp(175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+src\main.cpp(193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+src\main.cpp(207): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+src\main.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bezier.vcxproj -> D:\Spring2018\CGT-581\3\Bezier v15\x64\Debug\Bezier.exe
+  Bezier.vcxproj -> D:\Spring2018\CGT-581\3\Bezier v15\x64\Debug\Bezier.pdb (Full PDB)
